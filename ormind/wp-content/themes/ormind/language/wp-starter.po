@@ -1,0 +1,219 @@
+# Copyright (C) 2013 ThemeAwesome.com
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wpstarter\n"
+"POT-Creation-Date: 2013-10-02 00:10-0700\n"
+"PO-Revision-Date: 2013-10-02 00:10-0700\n"
+"Last-Translator: Thomas Vasquez <tsquez@gmail.com>\n"
+"Language-Team: Thomas Vasquez <tsquez@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../404.php:18
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../404.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:32
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:34
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:36
+msgid "Archives"
+msgstr ""
+
+#: ../author.php:33
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../author.php:52
+#: ../content-aside.php:28
+#: ../content-audio.php:43
+#: ../content-gallery.php:42
+#: ../content-image.php:25
+#: ../content-link.php:25
+#: ../content-quote.php:25
+#: ../content-status.php:32
+#: ../content-video.php:42
+#: ../content.php:48
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../category.php:22
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-aside.php:13
+#: ../content-audio.php:18
+#: ../content-gallery.php:17
+#: ../content-video.php:17
+#: ../content.php:18
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../content-aside.php:15
+#: ../content-image.php:13
+#: ../content-link.php:13
+#: ../content-quote.php:13
+#: ../content-status.php:20
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-aside.php:21
+#: ../content-audio.php:36
+#: ../content-chat.php:29
+#: ../content-gallery.php:35
+#: ../content-image.php:18
+#: ../content-link.php:18
+#: ../content-page.php:21
+#: ../content-quote.php:18
+#: ../content-status.php:25
+#: ../content-video.php:35
+#: ../content.php:41
+msgid "Edit"
+msgstr ""
+
+#: ../content-aside.php:32
+#: ../content-audio.php:47
+#: ../content-gallery.php:46
+#: ../content-image.php:29
+#: ../content-link.php:29
+#: ../content-quote.php:29
+#: ../content-status.php:36
+#: ../content-video.php:46
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-audio.php:29
+#: ../content-gallery.php:28
+#: ../content-video.php:28
+#: ../content.php:34
+msgid "Continue reading <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: ../content-audio.php:30
+#: ../content-chat.php:24
+#: ../content-gallery.php:29
+#: ../content-page.php:18
+#: ../content-video.php:29
+#: ../content.php:35
+#: ../image.php:94
+msgid "Pages:"
+msgstr ""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:17
+msgid ""
+"Apologies, but no results were found. Perhaps another search will help you "
+"find what you&#39;re looking for."
+msgstr ""
+
+#: ../content.php:23
+msgid "Leave a reply"
+msgstr ""
+
+#: ../content.php:23
+msgid "1 Reply"
+msgstr ""
+
+#: ../content.php:23
+msgid "% Replies"
+msgstr ""
+
+#: ../content.php:52
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: ../footer.php:35
+msgid "http://themeawesome.com/wpstarter"
+msgstr ""
+
+#: ../footer.php:36
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../image.php:28
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\"><i class=\"icon-time\"></i> </"
+"span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s"
+"\">%2$s</time></span>&nbsp;&nbsp;&nbsp;<i class=\"icon-camera\"></i> <a href="
+"\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a>&nbsp;&nbsp;"
+"&nbsp;<i class=\"icon-folder-open\"></i> <a href=\"%6$s\" title=\"Return to "
+"%7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: ../image.php:39
+msgid " Edit"
+msgstr ""
+
+#: ../image.php:43
+msgid "&laquo; Previous Image"
+msgstr ""
+
+#: ../image.php:44
+msgid "Next Image &raquo;"
+msgstr ""
+
+#: ../index.php:38
+msgid "No posts to display"
+msgstr ""
+
+#: ../index.php:42
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../tag.php:22
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
